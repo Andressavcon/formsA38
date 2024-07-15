@@ -10,20 +10,20 @@ Desenvolver um formulário de registro de usuário que colete informações bás
 
 ##### Estrutura do Formulário:
 
-[x] Campo para Nome Completo (Obrigatório)
-[x] Campo para Email (Obrigatório e email válido)
-[x] Campo para Senha (Obrigatório e no mínimo 8 caracteres)
-[x] Campo para Confirmar Senha (Obrigatório e deve ser igual ao campo senha)
-[x] Botão de submissão
+    [x] Campo para Nome Completo (Obrigatório);
+    [x] Campo para Email (Obrigatório e email válido);
+    [x] Campo para Senha (Obrigatório e no mínimo 8 caracteres);
+    [x] Campo para Confirmar Senha (Obrigatório e deve ser igual ao campo senha)
+    [x] Botão de submissão
 
 ##### Validações:
 
-[x] Todos os campos são obrigatórios
-[x] O email deve ter um formato válido (exemplo: usuario@dominio.com)
-[x] A senha deve ter no mínimo 8 caracteres
-[x] A confirmação da senha deve ser idêntica à senha
+    [x] Todos os campos são obrigatórios;
+    [x] O email deve ter um formato válido (exemplo: usuario@dominio.com);
+    [x] A senha deve ter no mínimo 8 caracteres;
+    [x] A confirmação da senha deve ser idêntica à senha;
 
 ##### Comportamento do formulário:
 
-[x] Exibir mensagens de erro abaixo dos campos que não passam nas validações
-[x] Exibir uma mensagem de sucesso ao final do formulário quendo todos os dados forem válidos e o formulário for submetido
+    [x] Exibir mensagens de erro abaixo dos campos que não passam nas validações;
+    [x] Exibir uma mensagem de sucesso ao final do formulário quendo todos os dados forem válidos e o formulário for submetido;
